@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: 9ebee6ddf484437439a75a4641c760e5
+timeCreated: 1479782107
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GunManInverse_0
+    21300002: GunManInverse_1
+    21300004: GunManInverse_2
+    21300006: GunManInverse_3
+    21300008: GunManInverse_4
+    21300010: GunManInverse_5
+    21300012: GunManInverse_6
+    21300014: GunManInverse_7
+    21300016: GunManInverse_8
+    21300018: GunManInverse_9
+    21300020: GunManInverse_10
+    21300022: GunManInverse_11
+    21300024: GunManInverse_12
+    21300026: GunManInverse_13
+    21300028: GunManInverse_14
+    21300030: GunManInverse_15
+    21300032: GunManInverse_16
+    21300034: GunManInverse_17
+    21300036: GunManInverse_18
+    21300038: GunManInverse_19
+    21300040: GunManInverse_20
+    21300042: GunManInverse_21
+    21300044: GunManInverse_22
+    21300046: GunManInverse_23
+    21300048: GunManInverse_24
+    21300050: GunManInverse_25
+    21300052: GunManInverse_26
+    21300054: GunManInverse_27
+    21300056: GunManInverse_28
+    21300058: GunManInverse_29
+    21300060: GunManInverse_30
+    21300062: GunManInverse_31
+    21300064: GunManInverse_32
+    21300066: GunManInverse_33
+    21300068: GunManInverse_34
+    21300070: GunManInverse_35
+    21300072: GunManInverse_36
+    21300074: GunManInverse_37
+    21300076: GunManInverse_38
+    21300078: GunManInverse_39
+    21300080: GunManInverse_40
+    21300082: GunManInverse_41
+    21300084: GunManInverse_42
+    21300086: GunManInverse_43
+    21300088: GunManInverse_44
+    21300090: GunManInverse_45
+    21300092: GunManInverse_46
+    21300094: GunManInverse_47
+    21300096: GunManInverse_48
+    21300098: GunManInverse_49
+    21300100: GunManInverse_50
+    21300102: GunManInverse_51
+    21300104: GunManInverse_52
+    21300106: GunManInverse_53
+    21300108: GunManInverse_54
+    21300110: GunManInverse_55
+    21300112: GunManInverse_56
+    21300114: GunManInverse_57
+    21300116: GunManInverse_58
+    21300118: GunManInverse_59
+    21300120: GunManInverse_60
+    21300122: GunManInverse_61
+    21300124: GunManInverse_62
+    21300126: GunManInverse_63
+    21300128: GunManInverse_64
+    21300130: GunManInverse_65
+    21300132: GunManInverse_66
+    21300134: GunManInverse_67
+    21300136: GunManInverse_68
+    21300138: GunManInverse_69
+    21300140: GunManInverse_70
+    21300142: GunManInverse_71
+    21300144: GunManInverse_72
+    21300146: GunManInverse_73
+    21300148: GunManInverse_74
+    21300150: GunManInverse_75
+    21300152: GunManInverse_76
+    21300154: GunManInverse_77
+    21300156: GunManInverse_80
+    21300158: GunManInverse_81
+    21300160: GunManInverse_82
+    21300162: GunManInverse_83
+    21300164: GunManInverse_84
+    21300166: GunManInverse_85
+    21300168: GunManInverse_86
+    21300170: GunManInverse_87
+    21300172: GunManInverse_88
+    21300174: GunManInverse_89
+    21300176: GunManInverse_90
+    21300178: GunManInverse_91
+    21300180: GunManInverse_92
+    21300182: GunManInverse_93
+    21300184: GunManInverse_94
+    21300186: GunManInverse_95
+    21300188: GunManInverse_96
+    21300190: GunManInverse_97
+    21300192: GunManInverse_98
+    21300194: GunManInverse_99
+    21300196: GunManInverse_100
+    21300198: GunManInverse_101
+    21300200: GunManInverse_102
+    21300202: GunManInverse_103
+    21300204: GunManInverse_104
+    21300206: GunManInverse_105
+    21300208: GunManInverse_106
+    21300210: GunManInverse_107
+    21300212: GunManInverse_108
+    21300214: GunManInverse_109
+    21300216: GunManInverse_110
+    21300218: GunManInverse_113
+    21300220: GunManInverse_114
+    21300222: GunManInverse_115
+    21300224: GunManInverse_116
+    21300226: GunManInverse_117
+    21300228: GunManInverse_118
+    21300230: GunManInverse_119
+    21300232: GunManInverse_120
+    21300234: GunManInverse_121
+    21300236: GunManInverse_122
+    21300238: GunManInverse_123
+    21300240: GunManInverse_124
+    21300242: GunManInverse_125
+    21300244: GunManInverse_126
+    21300246: GunManInverse_127
+    21300248: GunManInverse_128
+    21300250: GunManInverse_129
+    21300252: GunManInverse_130
+    21300254: GunManInverse_131
+    21300256: GunManInverse_132
+    21300258: GunManInverse_133
+    21300260: GunManInverse_134
+    21300262: GunManInverse_135
+    21300264: GunManInverse_136
+    21300266: GunManInverse_137
+    21300268: GunManInverse_138
+    21300270: GunManInverse_139
+    21300272: GunManInverse_140
+    21300274: GunManInverse_141
+    21300276: GunManInverse_142
+    21300278: GunManInverse_143
+    21300280: GunManInverse_144
+    21300282: GunManInverse_145
+    21300284: GunManInverse_146
+    21300286: GunManInverse_147
+    21300288: GunManInverse_148
+    21300290: GunManInverse_25.1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GunManInverse_0
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1078
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_1
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1078
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_2
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1078
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_3
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1078
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_4
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 1078
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_5
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 984
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_6
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 984
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_7
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 984
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_8
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 984
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_9
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 984
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_10
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 984
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_11
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 889
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_12
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 889
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_13
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 889
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_14
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 889
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_15
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 889
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_16
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 889
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_17
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 793
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_18
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 793
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_19
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 793
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_20
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 794
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_21
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 793
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_22
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 793
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_23
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 702
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_24
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 702
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_25
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 702
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_26
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 702
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_27
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 702
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_28
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 605
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_29
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 605
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_30
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 605
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_31
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 605
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_32
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 605
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_33
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 605
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_34
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 509
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_35
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 509
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_36
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 509
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_37
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 509
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_38
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 509
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_39
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 509
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_40
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 407
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_41
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 407
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_42
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 407
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_43
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 407
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_44
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 407
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_45
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 407
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 307
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 307
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 307
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 307
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_52
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 307
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 307
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_54
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 307
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_55
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 307
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 307
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_57
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 307
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_58
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 307
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_59
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 307
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_60
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 307
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_61
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 307
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_62
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 307
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_63
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 307
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_64
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 307
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_65
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 307
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_66
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 307
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_67
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 307
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_68
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 307
+        width: 92
+        height: 87
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_69
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 307
+        width: 105
+        height: 87
+      alignment: 9
+      pivot: {x: 0.425, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_70
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 307
+        width: 97
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_71
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 307
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_72
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 307
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_73
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 307
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_74
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 307
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_75
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 307
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_76
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 307
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_77
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 307
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 206
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 206
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 206
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_84
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 206
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 206
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_86
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 206
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_87
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 206
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_88
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 206
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_89
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 206
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_90
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 206
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_91
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 206
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_92
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_93
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 206
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_94
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 206
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_95
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 206
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_96
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_97
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 206
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_98
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 206
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_99
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 206
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_100
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_101
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 206
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_102
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 206
+        width: 100
+        height: 83
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_103
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 206
+        width: 92
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_104
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 206
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_105
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 206
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_106
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 206
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_107
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_108
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 206
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_109
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 206
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_110
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 206
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_113
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 99
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_114
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 99
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_115
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 99
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_116
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 99
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_117
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 99
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_118
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 99
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_119
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 105
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_120
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 105
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_122
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 117
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_124
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 0
+        width: 112
+        height: 74
+      alignment: 9
+      pivot: {x: 0.25, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_126
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 0
+        width: 108
+        height: 74
+      alignment: 9
+      pivot: {x: 0.25, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_128
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 104
+        height: 74
+      alignment: 9
+      pivot: {x: 0.25, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_129
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 0
+        width: 100
+        height: 74
+      alignment: 9
+      pivot: {x: 0.25, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_130
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_131
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 0
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_132
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 0
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_133
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 0
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_134
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 0
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_135
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_136
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_137
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 3
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_138
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 0
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_139
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 0
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_140
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 0
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_141
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_146
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_147
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_148
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunManInverse_25.1
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 703
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

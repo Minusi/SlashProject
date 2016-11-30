@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 91d9d248f6b2ff8409af296a04594e5b
+timeCreated: 1479165665
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JellyfishInverse_3
+    21300002: JellyfishInverse_6
+    21300004: JellyfishInverse_7
+    21300006: JellyfishInverse_8
+    21300008: JellyfishInverse_9
+    21300010: JellyfishInverse_10
+    21300012: JellyfishInverse_11
+    21300014: JellyfishInverse_13
+    21300016: JellyfishInverse_14
+    21300018: JellyfishInverse_16
+    21300020: JellyfishInverse_18
+    21300022: JellyfishInverse_19
+    21300024: JellyfishInverse_20
+    21300026: JellyfishInverse_21
+    21300028: JellyfishInverse_22
+    21300030: JellyfishInverse_23
+    21300032: JellyfishInverse_24
+    21300034: JellyfishInverse_25
+    21300036: JellyfishInverse_26
+    21300038: JellyfishInverse_27
+    21300040: JellyfishInverse_28
+    21300042: JellyfishInverse_29
+    21300044: JellyfishInverse_30
+    21300046: JellyfishInverse_31
+    21300048: JellyfishInverse_32
+    21300050: JellyfishInverse_33
+    21300052: JellyfishInverse_35
+    21300054: JellyfishInverse_36
+    21300056: JellyfishInverse_37
+    21300058: JellyfishInverse_38
+    21300060: JellyfishInverse_39
+    21300062: JellyfishInverse_40
+    21300064: JellyfishInverse_41
+    21300066: JellyfishInverse_42
+    21300068: JellyfishInverse_43
+    21300070: JellyfishInverse_44
+    21300072: JellyfishInverse_45
+    21300074: JellyfishInverse_46
+    21300076: JellyfishInverse_47
+    21300078: JellyfishInverse_48
+    21300080: JellyfishInverse_49
+    21300082: JellyfishInverse_50
+    21300084: JellyfishInverse_58
+    21300086: JellyfishInverse_60
+    21300088: JellyfishInverse_62
+    21300090: JellyfishInverse_63
+    21300092: JellyfishInverse_64
+    21300094: JellyfishInverse_65
+    21300096: JellyfishInverse_66
+    21300098: JellyfishInverse_68
+    21300100: JellyfishInverse_71
+    21300102: JellyfishInverse_73
+    21300104: JellyfishInverse_75
+    21300106: JellyfishInverse_76
+    21300108: JellyfishInverse_77
+    21300110: JellyfishInverse_78
+    21300112: JellyfishInverse_79
+    21300114: JellyfishInverse_80
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JellyfishInverse_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 430
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 431
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 431
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 431
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_9
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 431
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 431
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 430
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 431
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_14
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 431
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 431
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 369
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 369
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 369
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_21
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 369
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 369
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_23
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 369
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_24
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 369
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_25
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 369
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 305
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 305
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_28
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 305
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 305
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 305
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_31
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 305
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_32
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 305
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 305
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 242
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 242
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 242
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_38
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 242
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_39
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 242
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_40
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 242
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_41
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 242
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_42
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 242
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 179
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 179
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_45
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 179
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_46
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 179
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_47
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 179
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_48
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 179
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 179
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_50
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 179
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_58
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 75
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_60
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 78
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_62
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 80
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_63
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 85
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_64
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 83
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_65
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 83
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_66
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 83
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 83
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_75
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_76
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 11
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_77
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 10
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_78
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 10
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_79
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 10
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JellyfishInverse_80
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 10
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

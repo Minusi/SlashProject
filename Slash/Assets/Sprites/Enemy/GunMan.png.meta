@@ -1,0 +1,1977 @@
+fileFormatVersion: 2
+guid: a3cf3752b38623749b2b96cf45657b8e
+timeCreated: 1479779076
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GunMan_0
+    21300002: GunMan_1
+    21300004: GunMan_2
+    21300006: GunMan_3
+    21300008: GunMan_4
+    21300010: GunMan_5
+    21300012: GunMan_6
+    21300014: GunMan_7
+    21300016: GunMan_8
+    21300018: GunMan_9
+    21300020: GunMan_10
+    21300022: GunMan_11
+    21300024: GunMan_12
+    21300026: GunMan_13
+    21300028: GunMan_14
+    21300030: GunMan_15
+    21300032: GunMan_16
+    21300034: GunMan_17
+    21300036: GunMan_18
+    21300038: GunMan_19
+    21300040: GunMan_20
+    21300042: GunMan_21
+    21300044: GunMan_22
+    21300046: GunMan_23
+    21300048: GunMan_24
+    21300050: GunMan_25
+    21300052: GunMan_26
+    21300054: GunMan_27
+    21300056: GunMan_28
+    21300058: GunMan_29
+    21300060: GunMan_30
+    21300062: GunMan_31
+    21300064: GunMan_32
+    21300066: GunMan_33
+    21300068: GunMan_34
+    21300070: GunMan_35
+    21300072: GunMan_36
+    21300074: GunMan_37
+    21300076: GunMan_38
+    21300078: GunMan_39
+    21300080: GunMan_40
+    21300082: GunMan_41
+    21300084: GunMan_42
+    21300086: GunMan_43
+    21300088: GunMan_44
+    21300090: GunMan_45
+    21300092: GunMan_46
+    21300094: GunMan_47
+    21300096: GunMan_48
+    21300098: GunMan_49
+    21300100: GunMan_50
+    21300102: GunMan_51
+    21300104: GunMan_52
+    21300106: GunMan_53
+    21300108: GunMan_54
+    21300110: GunMan_55
+    21300112: GunMan_56
+    21300114: GunMan_57
+    21300116: GunMan_58
+    21300118: GunMan_59
+    21300120: GunMan_60
+    21300122: GunMan_61
+    21300124: GunMan_62
+    21300126: GunMan_63
+    21300128: GunMan_64
+    21300130: GunMan_65
+    21300132: GunMan_66
+    21300134: GunMan_67
+    21300136: GunMan_68
+    21300138: GunMan_69
+    21300140: GunMan_70
+    21300142: GunMan_71
+    21300144: GunMan_72
+    21300146: GunMan_73
+    21300148: GunMan_74
+    21300150: GunMan_75
+    21300152: GunMan_76
+    21300154: GunMan_77
+    21300156: GunMan_80
+    21300158: GunMan_81
+    21300160: GunMan_82
+    21300162: GunMan_83
+    21300164: GunMan_84
+    21300166: GunMan_85
+    21300168: GunMan_86
+    21300170: GunMan_87
+    21300172: GunMan_88
+    21300174: GunMan_89
+    21300176: GunMan_90
+    21300178: GunMan_91
+    21300180: GunMan_92
+    21300182: GunMan_93
+    21300184: GunMan_94
+    21300186: GunMan_95
+    21300188: GunMan_96
+    21300190: GunMan_97
+    21300192: GunMan_98
+    21300194: GunMan_99
+    21300196: GunMan_100
+    21300198: GunMan_101
+    21300200: GunMan_102
+    21300202: GunMan_103
+    21300204: GunMan_104
+    21300206: GunMan_105
+    21300208: GunMan_106
+    21300210: GunMan_107
+    21300212: GunMan_108
+    21300214: GunMan_109
+    21300216: GunMan_110
+    21300218: GunMan_112
+    21300220: GunMan_113
+    21300222: GunMan_114
+    21300224: GunMan_115
+    21300226: GunMan_116
+    21300228: GunMan_117
+    21300230: GunMan_118
+    21300232: GunMan_119
+    21300234: GunMan_120
+    21300236: GunMan_121
+    21300238: GunMan_122
+    21300240: GunMan_123
+    21300242: GunMan_124
+    21300244: GunMan_125
+    21300246: GunMan_126
+    21300248: GunMan_127
+    21300250: GunMan_128
+    21300252: GunMan_129
+    21300254: GunMan_130
+    21300256: GunMan_131
+    21300258: GunMan_132
+    21300260: GunMan_134
+    21300262: GunMan_136
+    21300264: GunMan_138
+    21300266: GunMan_140
+    21300268: GunMan_141
+    21300270: GunMan_143
+    21300272: GunMan_24.1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GunMan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1078
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1078
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1078
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1078
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 984
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 984
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 984
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 984
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 984
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 889
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 889
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 889
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 889
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 889
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 793
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 793
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 793
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 793
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 793
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 702
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 702
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 702
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 702
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 605
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 605
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 605
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 605
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 605
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 509
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 509
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 509
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 509
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 509
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 407
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 407
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 407
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 407
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_45
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 407
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 307
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 307
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 307
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 307
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 307
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 307
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_53
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 307
+        width: 97
+        height: 87
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_54
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 307
+        width: 104
+        height: 87
+      alignment: 9
+      pivot: {x: 0.575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_55
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 307
+        width: 91
+        height: 87
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_56
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 307
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_57
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 307
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_58
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 307
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_59
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 307
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_60
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 307
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_61
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 307
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_62
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 307
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_63
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 307
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_64
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 307
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_65
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 307
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_66
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 307
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_67
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 307
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_68
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 307
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_69
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 307
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_70
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 307
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_71
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 307
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_72
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 307
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_73
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 307
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_74
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 369
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_75
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 307
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_76
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 307
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_77
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 307
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_81
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 206
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 206
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_84
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 206
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 206
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_86
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 206
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 206
+        width: 92
+        height: 82
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_88
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 206
+        width: 99
+        height: 83
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_89
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 206
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_90
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_91
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 206
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_92
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 206
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_93
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 206
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_94
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_95
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 206
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_96
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 206
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_97
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 206
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_98
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 206
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_99
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 206
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_100
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 206
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_101
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 206
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_102
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 206
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_103
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 206
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_104
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 206
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_105
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 206
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_106
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 206
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_107
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 206
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_108
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 267
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_109
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 206
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_110
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 206
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_112
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 237
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_114
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 99
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_115
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 99
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_116
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 99
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_117
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 99
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_118
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 99
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_120
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_121
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_122
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_123
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_124
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_125
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_126
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_127
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_128
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_129
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_130
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_131
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 74
+      alignment: 9
+      pivot: {x: 0.75, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_132
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 103
+        height: 74
+      alignment: 9
+      pivot: {x: 0.75, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_134
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 108
+        height: 74
+      alignment: 9
+      pivot: {x: 0.75, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_136
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0
+        width: 111
+        height: 74
+      alignment: 9
+      pivot: {x: 0.75, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_138
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 117
+        height: 74
+      alignment: 9
+      pivot: {x: 0.7, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_140
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 0
+        width: 105
+        height: 74
+      alignment: 9
+      pivot: {x: 0.7, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_141
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 0
+        width: 105
+        height: 74
+      alignment: 9
+      pivot: {x: 0.7, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_143
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 14
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GunMan_24.1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 703
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

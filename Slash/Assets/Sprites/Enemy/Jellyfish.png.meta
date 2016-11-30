@@ -1,0 +1,1095 @@
+fileFormatVersion: 2
+guid: 3c8f97943564b444fa781b991b164a71
+timeCreated: 1479042430
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jellyfish_9
+    21300002: Jellyfish_10
+    21300004: Jellyfish_11
+    21300006: Jellyfish_12
+    21300008: Jellyfish_13
+    21300010: Jellyfish_14
+    21300012: Jellyfish_20
+    21300014: Jellyfish_21
+    21300016: Jellyfish_23
+    21300018: Jellyfish_24
+    21300020: Jellyfish_27
+    21300022: Jellyfish_28
+    21300024: Jellyfish_29
+    21300026: Jellyfish_30
+    21300028: Jellyfish_31
+    21300030: Jellyfish_32
+    21300032: Jellyfish_33
+    21300034: Jellyfish_34
+    21300036: Jellyfish_35
+    21300038: Jellyfish_36
+    21300040: Jellyfish_37
+    21300042: Jellyfish_38
+    21300044: Jellyfish_39
+    21300046: Jellyfish_40
+    21300048: Jellyfish_41
+    21300050: Jellyfish_42
+    21300052: Jellyfish_43
+    21300054: Jellyfish_44
+    21300056: Jellyfish_45
+    21300058: Jellyfish_46
+    21300060: Jellyfish_47
+    21300062: Jellyfish_48
+    21300064: Jellyfish_49
+    21300066: Jellyfish_50
+    21300068: Jellyfish_51
+    21300070: Jellyfish_52
+    21300072: Jellyfish_53
+    21300074: Jellyfish_54
+    21300076: Jellyfish_55
+    21300078: Jellyfish_56
+    21300080: Jellyfish_57
+    21300082: Jellyfish_58
+    21300084: Jellyfish_59
+    21300086: Jellyfish_67
+    21300088: Jellyfish_68
+    21300090: Jellyfish_69
+    21300092: Jellyfish_70
+    21300094: Jellyfish_71
+    21300096: Jellyfish_73
+    21300098: Jellyfish_74
+    21300100: Jellyfish_75
+    21300102: Jellyfish_76
+    21300104: Jellyfish_78
+    21300106: Jellyfish_79
+    21300108: Jellyfish_80
+    21300110: Jellyfish_81
+    21300112: Jellyfish_82
+    21300114: Jellyfish_83
+    21300116: Jellyfish_84
+    21300118: Jellyfish_85
+    21300120: Jellyfish_86
+    21300122: Jellyfish_87
+    21300124: Jellyfish_97
+    21300126: Jellyfish_98
+    21300128: Jellyfish_99
+    21300130: Jellyfish_0
+    21300132: Jellyfish_1
+    21300134: Jellyfish_2
+    21300136: Jellyfish_3
+    21300138: Jellyfish_4
+    21300140: Jellyfish_5
+    21300142: Jellyfish_6
+    21300144: Jellyfish_15
+    21300146: Jellyfish_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jellyfish_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 582
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 582
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 582
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 582
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 582
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 582
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 582
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 582
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 581
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 582
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 520
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 520
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 520
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 520
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 520
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 520
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 520
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 520
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 456
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 456
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 456
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 456
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_40
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 456
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 456
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 456
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 393
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 393
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_46
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 393
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_47
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 393
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 393
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 393
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 393
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 337
+        width: 310
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 330
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_53
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 330
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_54
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 330
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 330
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_56
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 330
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_58
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 330
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 330
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 234
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 234
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 234
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_70
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 234
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 231
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_73
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 227
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_74
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 261
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_75
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 234
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_76
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 234
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 237
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_79
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 227
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 161
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 161
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 161
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_85
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 152
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 150
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_87
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 154
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 59
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 59
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_99
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 58
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 59
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 58
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 59
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 59
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 60
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 60
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 60
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jellyfish_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

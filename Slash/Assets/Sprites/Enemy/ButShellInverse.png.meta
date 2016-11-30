@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: 1dfad4887d9932144b7f49a85e9163a8
+timeCreated: 1479813388
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ButShellInverse_0
+    21300002: ButShellInverse_1
+    21300004: ButShellInverse_2
+    21300006: ButShellInverse_3
+    21300008: ButShellInverse_4
+    21300010: ButShellInverse_5
+    21300012: ButShellInverse_6
+    21300014: ButShellInverse_7
+    21300016: ButShellInverse_8
+    21300018: ButShellInverse_9
+    21300020: ButShellInverse_10
+    21300022: ButShellInverse_11
+    21300024: ButShellInverse_12
+    21300026: ButShellInverse_13
+    21300028: ButShellInverse_14
+    21300030: ButShellInverse_15
+    21300032: ButShellInverse_16
+    21300034: ButShellInverse_17
+    21300036: ButShellInverse_18
+    21300038: ButShellInverse_19
+    21300040: ButShellInverse_20
+    21300042: ButShellInverse_21
+    21300044: ButShellInverse_22
+    21300046: ButShellInverse_23
+    21300048: ButShellInverse_24
+    21300050: ButShellInverse_25
+    21300052: ButShellInverse_26
+    21300054: ButShellInverse_27
+    21300056: ButShellInverse_28
+    21300058: ButShellInverse_29
+    21300060: ButShellInverse_30
+    21300062: ButShellInverse_31
+    21300064: ButShellInverse_32
+    21300066: ButShellInverse_33
+    21300068: ButShellInverse_34
+    21300070: ButShellInverse_35
+    21300072: ButShellInverse_36
+    21300074: ButShellInverse_37
+    21300076: ButShellInverse_38
+    21300078: ButShellInverse_39
+    21300080: ButShellInverse_40
+    21300082: ButShellInverse_41
+    21300084: ButShellInverse_42
+    21300086: ButShellInverse_43
+    21300088: ButShellInverse_44
+    21300090: ButShellInverse_45
+    21300092: ButShellInverse_46
+    21300094: ButShellInverse_47
+    21300096: ButShellInverse_48
+    21300098: ButShellInverse_49
+    21300100: ButShellInverse_50
+    21300102: ButShellInverse_51
+    21300104: ButShellInverse_52
+    21300106: ButShellInverse_53
+    21300108: ButShellInverse_54
+    21300110: ButShellInverse_55
+    21300112: ButShellInverse_56
+    21300114: ButShellInverse_57
+    21300116: ButShellInverse_58
+    21300118: ButShellInverse_59
+    21300120: ButShellInverse_60
+    21300122: ButShellInverse_61
+    21300124: ButShellInverse_62
+    21300126: ButShellInverse_63
+    21300128: ButShellInverse_64
+    21300130: ButShellInverse_65
+    21300132: ButShellInverse_66
+    21300134: ButShellInverse_67
+    21300136: ButShellInverse_68
+    21300138: ButShellInverse_69
+    21300140: ButShellInverse_70
+    21300142: ButShellInverse_71
+    21300144: ButShellInverse_72
+    21300146: ButShellInverse_73
+    21300148: ButShellInverse_74
+    21300150: ButShellInverse_75
+    21300152: ButShellInverse_76
+    21300154: ButShellInverse_77
+    21300156: ButShellInverse_78
+    21300158: ButShellInverse_79
+    21300160: ButShellInverse_80
+    21300162: ButShellInverse_81
+    21300164: ButShellInverse_82
+    21300166: ButShellInverse_83
+    21300168: ButShellInverse_84
+    21300170: ButShellInverse_85
+    21300172: ButShellInverse_86
+    21300174: ButShellInverse_87
+    21300176: ButShellInverse_88
+    21300178: ButShellInverse_89
+    21300180: ButShellInverse_90
+    21300182: ButShellInverse_91
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButShellInverse_0
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 934
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 926
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 931
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 931
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 934
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 864
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 863
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 864
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 867
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 867
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 867
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 867
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 866
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 798
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 797
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 797
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 800
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 802
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 802
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_19
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 800
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 799
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 726
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 729
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 729
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 729
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 726
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_26
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 726
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_27
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 727
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 725
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 660
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 663
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 663
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 661
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 654
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 654
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_35
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 654
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_36
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 654
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 588
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 590
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 590
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_40
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 589
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_41
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 590
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_42
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 590
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 590
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 520
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 520
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 520
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 520
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 520
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_50
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 520
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 520
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 447
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 451
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 451
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 451
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 446
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 446
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 446
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_59
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 446
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 372
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 376
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 376
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 376
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 376
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_65
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 373
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_66
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 375
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_67
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 377
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_68
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 287
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 288
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_70
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 292
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_71
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 292
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 292
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 292
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_74
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 292
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_75
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 292
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 217
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_77
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 215
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_78
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 214
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_79
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 212
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_80
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 146
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_81
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 144
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_82
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 146
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_83
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 146
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_84
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 84
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 86
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_86
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_87
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_88
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_89
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_90
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ButShellInverse_91
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

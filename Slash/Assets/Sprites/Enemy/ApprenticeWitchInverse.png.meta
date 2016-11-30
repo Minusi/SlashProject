@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: c2d640d4bec2d304ebe728da631385be
+timeCreated: 1479741679
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ApprenticeWitchInverse_0
+    21300002: ApprenticeWitchInverse_1
+    21300004: ApprenticeWitchInverse_2
+    21300006: ApprenticeWitchInverse_3
+    21300008: ApprenticeWitchInverse_4
+    21300010: ApprenticeWitchInverse_5
+    21300012: ApprenticeWitchInverse_6
+    21300014: ApprenticeWitchInverse_7
+    21300016: ApprenticeWitchInverse_8
+    21300018: ApprenticeWitchInverse_9
+    21300020: ApprenticeWitchInverse_10
+    21300022: ApprenticeWitchInverse_11
+    21300024: ApprenticeWitchInverse_12
+    21300026: ApprenticeWitchInverse_13
+    21300028: ApprenticeWitchInverse_14
+    21300030: ApprenticeWitchInverse_15
+    21300032: ApprenticeWitchInverse_16
+    21300034: ApprenticeWitchInverse_17
+    21300036: ApprenticeWitchInverse_18
+    21300038: ApprenticeWitchInverse_19
+    21300040: ApprenticeWitchInverse_20
+    21300042: ApprenticeWitchInverse_21
+    21300044: ApprenticeWitchInverse_22
+    21300046: ApprenticeWitchInverse_23
+    21300048: ApprenticeWitchInverse_24
+    21300050: ApprenticeWitchInverse_25
+    21300052: ApprenticeWitchInverse_26
+    21300054: ApprenticeWitchInverse_27
+    21300056: ApprenticeWitchInverse_28
+    21300058: ApprenticeWitchInverse_29
+    21300060: ApprenticeWitchInverse_30
+    21300062: ApprenticeWitchInverse_31
+    21300064: ApprenticeWitchInverse_32
+    21300066: ApprenticeWitchInverse_33
+    21300068: ApprenticeWitchInverse_34
+    21300070: ApprenticeWitchInverse_35
+    21300072: ApprenticeWitchInverse_36
+    21300074: ApprenticeWitchInverse_37
+    21300076: ApprenticeWitchInverse_38
+    21300078: ApprenticeWitchInverse_39
+    21300080: ApprenticeWitchInverse_40
+    21300082: ApprenticeWitchInverse_41
+    21300084: ApprenticeWitchInverse_42
+    21300086: ApprenticeWitchInverse_43
+    21300088: ApprenticeWitchInverse_44
+    21300090: ApprenticeWitchInverse_45
+    21300092: ApprenticeWitchInverse_46
+    21300094: ApprenticeWitchInverse_47
+    21300096: ApprenticeWitchInverse_48
+    21300098: ApprenticeWitchInverse_49
+    21300100: ApprenticeWitchInverse_50
+    21300102: ApprenticeWitchInverse_51
+    21300104: ApprenticeWitchInverse_52
+    21300106: ApprenticeWitchInverse_53
+    21300108: ApprenticeWitchInverse_54
+    21300110: ApprenticeWitchInverse_55
+    21300112: ApprenticeWitchInverse_56
+    21300114: ApprenticeWitchInverse_57
+    21300116: ApprenticeWitchInverse_58
+    21300118: ApprenticeWitchInverse_59
+    21300120: ApprenticeWitchInverse_60
+    21300122: ApprenticeWitchInverse_61
+    21300124: ApprenticeWitchInverse_62
+    21300126: ApprenticeWitchInverse_63
+    21300128: ApprenticeWitchInverse_64
+    21300130: ApprenticeWitchInverse_65
+    21300132: ApprenticeWitchInverse_66
+    21300134: ApprenticeWitchInverse_67
+    21300136: ApprenticeWitchInverse_68
+    21300138: ApprenticeWitchInverse_69
+    21300140: ApprenticeWitchInverse_70
+    21300142: ApprenticeWitchInverse_71
+    21300144: ApprenticeWitchInverse_72
+    21300146: ApprenticeWitchInverse_73
+    21300148: ApprenticeWitchInverse_74
+    21300150: ApprenticeWitchInverse_75
+    21300152: ApprenticeWitchInverse_76
+    21300154: ApprenticeWitchInverse_77
+    21300156: ApprenticeWitchInverse_94
+    21300158: ApprenticeWitchInverse_101
+    21300160: ApprenticeWitchInverse_108
+    21300162: ApprenticeWitchInverse_114
+    21300164: ApprenticeWitchInverse_115
+    21300166: ApprenticeWitchInverse_116
+    21300168: ApprenticeWitchInverse_118
+    21300170: ApprenticeWitchInverse_119
+    21300172: ApprenticeWitchInverse_120
+    21300174: ApprenticeWitchInverse_121
+    21300176: ApprenticeWitchInverse_122
+    21300178: ApprenticeWitchInverse_123
+    21300180: ApprenticeWitchInverse_126
+    21300182: ApprenticeWitchInverse_127
+    21300184: ApprenticeWitchInverse_128
+    21300186: ApprenticeWitchInverse_129
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_0
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1354
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_1
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1354
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_2
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1354
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_3
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1354
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_4
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1354
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_5
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1354
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1246
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_7
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1246
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_8
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1246
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_9
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1246
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_10
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1246
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_11
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1246
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1142
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1142
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_14
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1142
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_15
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1142
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_16
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1142
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_17
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1142
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_18
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1042
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_19
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1042
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_20
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1042
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_21
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1042
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_22
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1042
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_23
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1042
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_24
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 943
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_25
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 943
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_26
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 943
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_27
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 943
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_28
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 943
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_29
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 943
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_30
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 835
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_31
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 835
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_32
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 835
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_33
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 835
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_34
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 835
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_35
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 835
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 676
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 676
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 676
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 676
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 676
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_41
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 676
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_42
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 676
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_43
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 676
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_44
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 676
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_45
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 676
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_46
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 676
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_47
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 676
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_48
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 676
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_49
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 676
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_50
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 676
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_51
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 676
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 546
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 546
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 546
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_55
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 546
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_56
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 546
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_57
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 546
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 546
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_59
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 546
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_60
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 546
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_61
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 546
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_62
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 546
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_63
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 546
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_64
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 546
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_65
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 546
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_66
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 546
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_67
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 546
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_68
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 414
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_69
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 414
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_70
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 304
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_71
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 304
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_72
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 304
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_73
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 304
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_74
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 205
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_75
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 205
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_76
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 205
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_77
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 205
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_94
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 140
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_101
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 94
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_108
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 84
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_114
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 99
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_116
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 98
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_118
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_119
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_120
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 96
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 97
+        height: 163
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_122
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 102
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_123
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 98
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_126
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_127
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_128
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 0
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ApprenticeWitchInverse_129
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 0
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

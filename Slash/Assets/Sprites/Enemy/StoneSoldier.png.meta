@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: 5f6396386e7bae348a8936fb75b29177
+timeCreated: 1479543334
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StoneSoldier_0
+    21300002: StoneSoldier_1
+    21300004: StoneSoldier_2
+    21300006: StoneSoldier_3
+    21300008: StoneSoldier_4
+    21300010: StoneSoldier_5
+    21300012: StoneSoldier_6
+    21300014: StoneSoldier_7
+    21300016: StoneSoldier_8
+    21300018: StoneSoldier_9
+    21300020: StoneSoldier_10
+    21300022: StoneSoldier_11
+    21300024: StoneSoldier_12
+    21300026: StoneSoldier_13
+    21300028: StoneSoldier_14
+    21300030: StoneSoldier_15
+    21300032: StoneSoldier_16
+    21300034: StoneSoldier_17
+    21300036: StoneSoldier_18
+    21300038: StoneSoldier_19
+    21300040: StoneSoldier_20
+    21300042: StoneSoldier_21
+    21300044: StoneSoldier_22
+    21300046: StoneSoldier_23
+    21300048: StoneSoldier_24
+    21300050: StoneSoldier_25
+    21300052: StoneSoldier_26
+    21300054: StoneSoldier_27
+    21300056: StoneSoldier_28
+    21300058: StoneSoldier_29
+    21300060: StoneSoldier_30
+    21300062: StoneSoldier_31
+    21300064: StoneSoldier_32
+    21300066: StoneSoldier_33
+    21300068: StoneSoldier_34
+    21300070: StoneSoldier_35
+    21300072: StoneSoldier_36
+    21300074: StoneSoldier_37
+    21300076: StoneSoldier_38
+    21300078: StoneSoldier_39
+    21300080: StoneSoldier_41
+    21300082: StoneSoldier_49
+    21300084: StoneSoldier_50
+    21300086: StoneSoldier_51
+    21300088: StoneSoldier_52
+    21300090: StoneSoldier_53
+    21300092: StoneSoldier_54
+    21300094: StoneSoldier_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneSoldier_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 908
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 908
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 908
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 908
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 908
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 797
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 797
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 797
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 713
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 713
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 713
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 626
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 626
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 626
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 540
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 540
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 540
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 453
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 453
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 453
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 342
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 342
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 342
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 342
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 342
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 342
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 342
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 342
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 254
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 254
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 254
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 254
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 254
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 254
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 254
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 254
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_36
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 254
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 129
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 129
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_52
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 97
+        height: 76
+      alignment: 9
+      pivot: {x: 0.52556807, y: 0.5761426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 102
+        height: 76
+      alignment: 9
+      pivot: {x: 0.55673397, y: 0.65228534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: StoneSoldier_55
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.60508806, y: 0.7217953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

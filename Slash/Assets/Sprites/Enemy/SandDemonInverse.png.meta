@@ -1,0 +1,1025 @@
+fileFormatVersion: 2
+guid: 840d2f50f9bc5be4699be9544fea53b2
+timeCreated: 1479817387
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SandDemonInverse_0
+    21300002: SandDemonInverse_1
+    21300004: SandDemonInverse_2
+    21300006: SandDemonInverse_3
+    21300008: SandDemonInverse_4
+    21300010: SandDemonInverse_5
+    21300012: SandDemonInverse_6
+    21300014: SandDemonInverse_8
+    21300016: SandDemonInverse_16
+    21300018: SandDemonInverse_17
+    21300020: SandDemonInverse_18
+    21300022: SandDemonInverse_19
+    21300024: SandDemonInverse_20
+    21300026: SandDemonInverse_21
+    21300028: SandDemonInverse_23
+    21300030: SandDemonInverse_25
+    21300032: SandDemonInverse_33
+    21300034: SandDemonInverse_34
+    21300036: SandDemonInverse_35
+    21300038: SandDemonInverse_36
+    21300040: SandDemonInverse_37
+    21300042: SandDemonInverse_38
+    21300044: SandDemonInverse_40
+    21300046: SandDemonInverse_41
+    21300048: SandDemonInverse_44
+    21300050: SandDemonInverse_45
+    21300052: SandDemonInverse_46
+    21300054: SandDemonInverse_47
+    21300056: SandDemonInverse_48
+    21300058: SandDemonInverse_49
+    21300060: SandDemonInverse_50
+    21300062: SandDemonInverse_52
+    21300064: SandDemonInverse_60
+    21300066: SandDemonInverse_61
+    21300068: SandDemonInverse_62
+    21300070: SandDemonInverse_63
+    21300072: SandDemonInverse_64
+    21300074: SandDemonInverse_65
+    21300076: SandDemonInverse_67
+    21300078: SandDemonInverse_69
+    21300080: SandDemonInverse_76
+    21300082: SandDemonInverse_77
+    21300084: SandDemonInverse_78
+    21300086: SandDemonInverse_79
+    21300088: SandDemonInverse_80
+    21300090: SandDemonInverse_81
+    21300092: SandDemonInverse_86
+    21300094: SandDemonInverse_87
+    21300096: SandDemonInverse_88
+    21300098: SandDemonInverse_89
+    21300100: SandDemonInverse_90
+    21300102: SandDemonInverse_92
+    21300104: SandDemonInverse_95
+    21300106: SandDemonInverse_97
+    21300108: SandDemonInverse_98
+    21300110: SandDemonInverse_100
+    21300112: SandDemonInverse_101
+    21300114: SandDemonInverse_102
+    21300116: SandDemonInverse_103
+    21300118: SandDemonInverse_105
+    21300120: SandDemonInverse_107
+    21300122: SandDemonInverse_108
+    21300124: SandDemonInverse_109
+    21300126: SandDemonInverse_110
+    21300128: SandDemonInverse_111
+    21300130: SandDemonInverse_112
+    21300132: SandDemonInverse_104.1
+    21300134: SandDemonInverse_106
+    21300136: SandDemonInverse_104
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SandDemonInverse_0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 657
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 657
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 657
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 657
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 657
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 657
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 657
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 657
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 575
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 575
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 575
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_19
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 575
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_20
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 575
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 575
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 575
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 575
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 494
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 494
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 494
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_36
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 494
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_37
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 494
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_38
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 494
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 494
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 494
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 415
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 415
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 415
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_47
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 415
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 415
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 415
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 415
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 415
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 334
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 334
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_62
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 334
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_63
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 334
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 334
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_65
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 334
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_67
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 334
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_69
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 334
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 252
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_77
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 252
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_78
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 252
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_79
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 252
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_80
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 252
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_81
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 252
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_86
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 169
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_87
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 169
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_88
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 169
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_89
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 169
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_90
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 169
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_92
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 169
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_95
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 86
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_97
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 86
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_98
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 86
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_100
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 86
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_101
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 86
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_102
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 86
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_103
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 86
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_107
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_109
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_110
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_111
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_112
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_104.1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_106
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SandDemonInverse_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

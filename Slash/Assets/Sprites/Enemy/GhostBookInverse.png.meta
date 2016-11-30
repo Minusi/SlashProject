@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: fb6f2e6ba0b8f4c49963a950ac6e1d42
+timeCreated: 1479802742
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GhostBookInverse_0
+    21300002: GhostBookInverse_1
+    21300004: GhostBookInverse_2
+    21300006: GhostBookInverse_3
+    21300008: GhostBookInverse_4
+    21300010: GhostBookInverse_5
+    21300012: GhostBookInverse_6
+    21300014: GhostBookInverse_7
+    21300016: GhostBookInverse_8
+    21300018: GhostBookInverse_9
+    21300020: GhostBookInverse_10
+    21300022: GhostBookInverse_11
+    21300024: GhostBookInverse_12
+    21300026: GhostBookInverse_13
+    21300028: GhostBookInverse_14
+    21300030: GhostBookInverse_15
+    21300032: GhostBookInverse_16
+    21300034: GhostBookInverse_17
+    21300036: GhostBookInverse_18
+    21300038: GhostBookInverse_19
+    21300040: GhostBookInverse_20
+    21300042: GhostBookInverse_21
+    21300044: GhostBookInverse_22
+    21300046: GhostBookInverse_23
+    21300048: GhostBookInverse_24
+    21300050: GhostBookInverse_25
+    21300052: GhostBookInverse_26
+    21300054: GhostBookInverse_27
+    21300056: GhostBookInverse_28
+    21300058: GhostBookInverse_29
+    21300060: GhostBookInverse_30
+    21300062: GhostBookInverse_31
+    21300064: GhostBookInverse_32
+    21300066: GhostBookInverse_33
+    21300068: GhostBookInverse_34
+    21300070: GhostBookInverse_35
+    21300072: GhostBookInverse_36
+    21300074: GhostBookInverse_37
+    21300076: GhostBookInverse_38
+    21300078: GhostBookInverse_39
+    21300080: GhostBookInverse_40
+    21300082: GhostBookInverse_41
+    21300084: GhostBookInverse_42
+    21300086: GhostBookInverse_43
+    21300088: GhostBookInverse_46
+    21300090: GhostBookInverse_47
+    21300092: GhostBookInverse_48
+    21300094: GhostBookInverse_50
+    21300096: GhostBookInverse_51
+    21300098: GhostBookInverse_52
+    21300100: GhostBookInverse_53
+    21300102: GhostBookInverse_72
+    21300104: GhostBookInverse_74
+    21300106: GhostBookInverse_75
+    21300108: GhostBookInverse_76
+    21300110: GhostBookInverse_77
+    21300112: GhostBookInverse_78
+    21300114: GhostBookInverse_79
+    21300116: GhostBookInverse_80
+    21300118: GhostBookInverse_81
+    21300120: GhostBookInverse_82
+    21300122: GhostBookInverse_83
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GhostBookInverse_0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 989
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 989
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 989
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 989
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 989
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_5
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 989
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 911
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 911
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 911
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 911
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_10
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 911
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_11
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 911
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 823
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_13
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 824
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 821
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_15
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 821
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 822
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 822
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 746
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 746
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_20
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 746
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 746
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 746
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_23
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 746
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 670
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 670
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 670
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 670
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_28
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 670
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 670
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_30
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 558
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 558
+        width: 55
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_32
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 558
+        width: 55
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_33
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 558
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_34
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 558
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_35
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 558
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 464
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_37
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 464
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_38
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 464
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_39
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 464
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 464
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_41
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 465
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_42
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 465
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_43
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 356
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_46
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 337
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_47
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 263
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_48
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 259
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_50
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 166
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_51
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 166
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_52
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 166
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_53
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 166
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_72
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 54
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_74
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 57
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_75
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 81
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 81
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_79
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 79
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_80
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 81
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_81
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 64
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_82
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 57
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GhostBookInverse_83
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 53
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

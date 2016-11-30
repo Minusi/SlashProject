@@ -1,83 +1,172 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine.SceneManagement;
+using System;
 
-public class Player : MonoBehaviour {
+public class Player : BaseControl {
 
-    static public int Speed = 7;
-    bool hasArmor;
-    int bulletCount;
-    Item item;
+    public static event Action OnDie;
 
-    int damage = 1;
+    static public int speed;
+    static public  int damage;
+    static public int bulletCount;
 
-    void Attack()
+
+    static public bool isArmed;
+    List<Item> itemList;
+
+    PlayerRange playerRange;
+
+    void Awake()
     {
-        if (Input.GetMouseButtonDown(0))
+        controlFlag = true;
+
+        speed = 6;
+        damage = 1;
+        bulletCount = 0;
+
+        isArmed = false;
+        itemList = null;
+
+        animator = GetComponent<Animator>();
+    }
+
+    void Start()
+    {
+        playerRange = GetComponentInChildren<PlayerRange>();
+    }
+
+    void OnEnable()
+    {
+        InputManager.OnMove += Move;
+        InputManager.OnAttack += Attack;
+        InputManager.OnUseItem += UseItem;
+        InputManager.OnAvoid += Avoid;
+        InputManager.OnFire += Fire;
+    }
+
+    void OnCollisionEnter2D(Collision2D obj)
+    {
+        if(obj.gameObject.CompareTag("EnemyCast"))
         {
-           
+            Hit();
         }
+        else if (obj.gameObject.CompareTag("Item"))
+        {
+            ItemGet();
+        }
+        else if (obj.gameObject.CompareTag("Object"))
+        {
+            Objects objects = obj.gameObject.GetComponent<Objects>();
+            if (objects.oType == OType.TRAP)
+            {
+                Hit();
+            }
+        }
+    }
+
+    public void Move(Vector2 direction)
+    {
+        // Move implements
+        if (direction.x != 0 || direction.y != 0)
+        {
+            animeState = (int)State.MOVE;
+            IdleDirection = direction;
+
+            this.transform.Translate(direction * Time.deltaTime * speed);
+            playerRange.TranslateRange(direction);
+        }
+        // Idle implements
+        else
+        {
+            animeState = (int)State.IDLE;
+            direction = IdleDirection;
+        }
+
+        SetAnime(animator, direction.x, direction.y, animeState);
+    }
+
+    public void Attack()
+    {
+
+        animeState = (int)State.ATTACK;
+        SetAnime(animator, animeState);
+
+        playerRange.DamageBound();
 
     }
 
-    void Hit()
+    public void Fire(Vector2 direction)
     {
-        if (hasArmor == true)
+        if (bulletCount > 0)
         {
-            hasArmor = false;
+            // 오브젝트 풀에서 플레이어의 포지션에 총알 객체를 푸시오브젝트 시킨다.
+
+            direction.Normalize();
+            animeState = (int)State.FIRE;
+            SetAnime(animator, direction.x, direction.y, animeState);
         }
         else
         {
-            Die();
+            bulletCount = 0;
+
+            // 찰칵 소리나게 할까?
         }
     }
 
-    void Die()  
+    public void Hit()
     {
-        SceneManager.LoadScene("Game Scene");
-        // 버튼 restart, menu버튼 띄우기
-    }
-
-    void Fire()
-    {
-        if (Input.GetMouseButtonDown(1))
+        if (isArmed == true)
         {
-            
-        }
-    }
+            isArmed = false;
 
-    void Avoid()
-    {
-        if (Input.GetKey(KeyCode.Space))
+            animeState = (int)State.HIT;
+            SetAnime(animator, animeState);
+        }
+        else
         {
-            // 회피
+                      Die();
+            //print("die");
         }
     }
 
-    void ActiveItem()
+    public void Die()  
     {
-        if (Input.GetKey(KeyCode.E))
-        {
-            // 아이템 사용
-        }
+        controlFlag = false;
+        animeState = (int)State.DIE;
+        SetAnime(animator, animeState);
+        StartCoroutine(StopAnime(0.833F));
+
+        OnDie();
+        // 게임오버
     }
 
-    void Move()
+    public void Avoid(Vector2 direction)
     {
-        if (Input.GetKey(KeyCode.A))
-            this.transform.Translate(new Vector2(-1 * Time.deltaTime * Speed, 0));
-        if (Input.GetKey(KeyCode.D))
-            this.transform.Translate(new Vector2(1 * Time.deltaTime * Speed, 0));
-        if (Input.GetKey(KeyCode.W))
-            this.transform.Translate(new Vector2(0, 1 * Time.deltaTime * Speed));
-        if (Input.GetKey(KeyCode.S))
-            this.transform.Translate(new Vector2(0, -1 * Time.deltaTime * Speed));
-    }
-  
-    
-    void Update()
-    {
-        Move();
 
+    }
+
+    public void ItemGet()
+    {
+        
+    }
+    public void UseItem()
+    {
+    }
+
+
+    public int getDamage()
+    {
+        return damage;
+    }
+
+    void OnDisable()
+    {
+        InputManager.OnMove -= Move;
+        InputManager.OnAttack -= Attack;
+        InputManager.OnUseItem -= UseItem;
+        InputManager.OnAvoid -= Avoid;
+        InputManager.OnFire -= Fire;
     }
 }

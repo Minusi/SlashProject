@@ -37,7 +37,7 @@ public class MainSceneController : MonoBehaviour
 
     public void Exit()
     {
-        Application.Quit();
+        Application.Quit();     
     }
 
     public void Back()

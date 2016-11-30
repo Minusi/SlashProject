@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public abstract class Item {
-    public abstract void Active();
+public abstract class Item : MonoBehaviour{
+    
 }
